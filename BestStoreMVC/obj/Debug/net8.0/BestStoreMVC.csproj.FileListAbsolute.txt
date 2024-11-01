@@ -1,0 +1,60 @@
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\appsettings.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.staticwebassets.runtime.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.exe
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.deps.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.runtimeconfig.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.dll
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.pdb
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.AssemblyInfoInputs.cache
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.AssemblyInfo.cs
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.csproj.CoreCompileInputs.cache
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.RazorAssemblyInfo.cache
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.RazorAssemblyInfo.cs
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.BestStoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.BestStoreMVC.props
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BestStoreMVC.props
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BestStoreMVC.props
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\scopedcss\bundle\BestStoreMVC.styles.css
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\BestStoreMVC.bundle.scp.css
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.dll
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\refint\BestStoreMVC.dll
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.pdb
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.genruntimeconfig.cache
+D:\programmer\อาจารย์เกล็ด ส.1\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\ref\BestStoreMVC.dll
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.exe
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.deps.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.runtimeconfig.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.dll
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\bin\Debug\net8.0\BestStoreMVC.pdb
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.BestStoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.BestStoreMVC.props
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BestStoreMVC.props
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BestStoreMVC.props
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\scopedcss\bundle\BestStoreMVC.styles.css
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\BestStoreMVC.bundle.scp.css
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.dll
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\refint\BestStoreMVC.dll
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.pdb
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\BestStoreMVC.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BestStoreMVC3\BestStoreMVC\obj\Debug\net8.0\ref\BestStoreMVC.dll
